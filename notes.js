@@ -11,5 +11,5 @@
         // biar gak nyentuh kodingan di branch master
         // prinsipnya, branch master must always deployable
     // push branch to github repo
-    // pull request
+    // pull request = minta buat perubahan yang dilakukan itu dimasukan ke master
     // merge branch to master
