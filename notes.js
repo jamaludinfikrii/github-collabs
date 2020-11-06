@@ -10,3 +10,6 @@
     // bikin branch
         // biar gak nyentuh kodingan di branch master
         // prinsipnya, branch master must always deployable
+    // push branch to github repo
+    // pull request
+    // merge branch to master
