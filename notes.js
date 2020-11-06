@@ -5,3 +5,8 @@
 
 // cara simple
     // push and pull
+
+// cara ribet
+    // bikin branch
+        // biar gak nyentuh kodingan di branch master
+        // prinsipnya, branch master must always deployable
